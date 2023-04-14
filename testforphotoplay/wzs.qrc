@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/wzs">
+        <file>img/01.jfif</file>
+        <file>img/02jfif</file>
+        <file>img/03.jfif</file>
+    </qresource>
+</RCC>
