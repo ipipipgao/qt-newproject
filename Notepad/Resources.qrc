@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Custom-Icon-Design-Flatastic-10-Open-file.512 (1).png</file>
+        <file>C:/Users/lenovo/Desktop/new/Custom-Icon-Design-Pretty-Office-9-New-file.256.png</file>
+    </qresource>
+</RCC>

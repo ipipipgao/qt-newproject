@@ -1,6 +1,4 @@
 QT       += core gui
-QT += sql
-#在pro配置文件中做更改时，需要重新构建一下，就像springboot里面的maven要重新刷新一下配置文件一样
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -19,13 +17,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
-    sqlitelearning.cpp
+    mainwindow.cpp
 
 HEADERS += \
-    sqlitelearning.h
+    mainwindow.h
 
 FORMS += \
-    sqlitelearning.ui
+    mainwindow.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
