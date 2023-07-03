@@ -1,0 +1,4 @@
+D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/TouristManagement2.dir
+D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/TouristManagement2_autogen.dir

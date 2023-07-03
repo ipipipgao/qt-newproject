@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TouristManagement2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\5.14.2\;CMake Files\..\..\5.14.2\mingw73_32\;CMake Files\..\..\5.14.2\mingw73_32\lib\;CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\;CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5\;CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Widgets\;CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\;CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Core\;CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Sql\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TouristManagement2">
+				<Option output="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+					<Add directory="D:/users/download/QtCreator/projectforgit/TouristManagement2"/>
+					<Add directory="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtWidgets"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtGui"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtANGLE"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtCore"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/./mkspecs/win32-g++"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtSql"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 TouristManagement2"/>
+					<CompileFile command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TouristManagement2/fast">
+				<Option output="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+					<Add directory="D:/users/download/QtCreator/projectforgit/TouristManagement2"/>
+					<Add directory="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtWidgets"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtGui"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtANGLE"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtCore"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/./mkspecs/win32-g++"/>
+					<Add directory="D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtSql"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/users/download/QtCreator/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 TouristManagement2/fast"/>
+					<CompileFile command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TouristManagement2_autogen">
+				<Option working_dir="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 TouristManagement2_autogen"/>
+					<CompileFile command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/users/download/QtCreator/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/TryAgain.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/addpackage.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/addpackage.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/addpackage.ui">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/databaseheader.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/findpackage.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/findpackage.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/findpackage.ui">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/findtourist.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/findtourist.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/findtourist.ui">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/main.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/mainwindow.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/mainwindow.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/mainwindow.ui">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/registertourist.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/registertourist.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/registertourist.ui">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include/ui_addpackage.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include/ui_findpackage.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include/ui_findtourist.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include/ui_mainwindow.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include/ui_registertourist.h">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/mocs_compilation.cpp">
+			<Option target="TouristManagement2"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="D:/users/download/QtCreator/projectforgit/TouristManagement2/../../5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\5.14.2\mingw73_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

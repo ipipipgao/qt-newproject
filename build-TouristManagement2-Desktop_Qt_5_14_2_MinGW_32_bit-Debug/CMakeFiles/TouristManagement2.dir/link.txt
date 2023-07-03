@@ -1,0 +1,3 @@
+D:\users\download\CMake\bin\cmake.exe -E rm -f CMakeFiles\TouristManagement2.dir/objects.a
+D:\users\download\QtCreator\Tools\mingw730_32\bin\ar.exe qc CMakeFiles\TouristManagement2.dir/objects.a @CMakeFiles\TouristManagement2.dir\objects1.rsp
+D:\users\download\QtCreator\Tools\mingw730_32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\TouristManagement2.dir/objects.a -Wl,--no-whole-archive -o TouristManagement2.exe -Wl,--out-implib,libTouristManagement2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TouristManagement2.dir\linkLibs.rsp

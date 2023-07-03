@@ -1,0 +1,212 @@
+{
+	"BUILD_DIR" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen",
+	"CMAKE_BINARY_DIR" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/users/download/QtCreator/projectforgit/TouristManagement2",
+	"CMAKE_EXECUTABLE" : "D:/users/download/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/users/download/QtCreator/projectforgit/TouristManagement2/CMakeLists.txt",
+		"D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/3.26.3/CMakeSystem.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeFindCodeBlocks.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/ProcessorCount.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Compiler/GNU.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake",
+		"D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/3.26.3/CMakeRCCompiler.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Platform/Windows-windres.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeParseArguments.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeParseArguments.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/users/download/QtCreator/projectforgit/TouristManagement2",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/TryAgain.h",
+			"MU",
+			"EWIEGA46WW/moc_TryAgain.cpp",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/addpackage.h",
+			"MU",
+			"EWIEGA46WW/moc_addpackage.cpp",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/databaseheader.h",
+			"MU",
+			"EWIEGA46WW/moc_databaseheader.cpp",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/findpackage.h",
+			"MU",
+			"EWIEGA46WW/moc_findpackage.cpp",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/findtourist.h",
+			"MU",
+			"EWIEGA46WW/moc_findtourist.cpp",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/registertourist.h",
+			"MU",
+			"EWIEGA46WW/moc_registertourist.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SQL_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug",
+		"D:/users/download/QtCreator/projectforgit/TouristManagement2",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/include",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtWidgets",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtGui",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtANGLE",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtCore",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/mkspecs/win32-g++",
+		"D:/users/download/QtCreator/5.14.2/mingw73_32/include/QtSql",
+		"D:/users/download/QtCreator/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++",
+		"D:/users/download/QtCreator/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32",
+		"D:/users/download/QtCreator/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward",
+		"D:/users/download/QtCreator/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include",
+		"D:/users/download/QtCreator/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include-fixed",
+		"D:/users/download/QtCreator/Tools/mingw730_32/i686-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/users/download/QtCreator/Tools/mingw730_32/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/users/download/CMake/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/TouristManagement2_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/TouristManagement2_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/users/download/QtCreator/5.14.2/mingw73_32/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/users/download/QtCreator/5.14.2/mingw73_32/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "D:/users/download/QtCreator/projectforgit/build-TouristManagement2-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/CMakeFiles/TouristManagement2_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/addpackage.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/findpackage.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/findtourist.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/users/download/QtCreator/projectforgit/TouristManagement2/registertourist.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
